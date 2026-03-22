@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (Folder virtual environment)
+venv/
+env/
+ENV/
+.env
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nosepy
+.pytest_cache/
+
+# OS Metadata (File sampah sistem)
+.DS_Store
+Thumbs.db
+
+# User-specific files (Data sensitif/pribadi)
+*.log
+config.json
+secrets.py
